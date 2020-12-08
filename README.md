@@ -1,2 +1,2 @@
 # NLP-Quality-Estimation
-Course Project
+Final Project for Natural Language Processing Course(CS-431)
